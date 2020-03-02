@@ -5,9 +5,9 @@ Heisenbug Ltd. is an organization committed to high assurance software, written 
 ### Current Projects
 
 #### Somewhat Stable Projects
-* [Saatana](https://heisenbugltd.github.io/Saatana) - A cryptographic framework, proven for correctness in SPARK
-* [SI Units](https://heisenbugltd.github.io/si_units/) - Utility library to pretty print physical values in proper metric units
+* ![](https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/saatana/profile-small.png) [Saatana](https://heisenbugltd.github.io/Saatana) - A cryptographic framework, proven for correctness in SPARK
+* ![](https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/si_units/profile-small.png) [SI Units](https://heisenbugltd.github.io/si_units/) - Utility library to pretty print physical values in proper metric units
 
 #### Work-in-Progress Projects
 
-* [S.P.A.T.](https://heisenbugltd.github.io/spat/) - SPARK Proof Analysis Tool
+* ![](https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/spat/profile-small.png)[S.P.A.T.](https://heisenbugltd.github.io/spat/) - SPARK Proof Analysis Tool
