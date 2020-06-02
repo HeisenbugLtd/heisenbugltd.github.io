@@ -6,8 +6,14 @@ Heisenbug Ltd. is an organization committed to high assurance software, written 
 
 #### Somewhat Stable Projects
 * ![](https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/saatana/profile-small.png) [Saatana](https://heisenbugltd.github.io/Saatana) - A cryptographic framework, proven for correctness in SPARK
+  * Latest version: 2.0.2
+
 * ![](https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/si_units/profile-small.png) [SI Units](https://heisenbugltd.github.io/si_units/) - Utility library to pretty print physical values in proper metric units
+  * Latest version: 0.1.0
+
+* ![](https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/spat/profile-small.png)[S.P.A.T.](https://heisenbugltd.github.io/spat/) - SPARK Proof Analysis Tool
+  * Latest version: No official release yet.
 
 #### Work-in-Progress Projects
 
-* ![](https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/spat/profile-small.png)[S.P.A.T.](https://heisenbugltd.github.io/spat/) - SPARK Proof Analysis Tool
+[OpenWeatherMap API](https://heisenbugltd.github.io/open_weather_map_api/) - Ada binding to the openweathermap.org JSON API.
