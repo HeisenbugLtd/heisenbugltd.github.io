@@ -6,7 +6,9 @@ layout: default
 
   <p>Heisenbug Ltd. is an organization committed to high assurance software, written in Ada and SPARK.</p>
 
+  <hr/>
   <h2>Somewhat Stable Projects</h2>
+
   <p>
     <a href="{{ site.baseurl }}/Saatana/">
       <img src="https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/saatana/profile-small.png"
@@ -14,7 +16,7 @@ layout: default
       Saatana</a>- A cryptographic framework, proven for correctness in SPARK
     <p>Latest version: 2.0.2</p>
   </p>
-    
+
   <p>
     <a href="{{ site.baseurl }}/si_units/">
       <img src="https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/si_units/profile-small.png"
@@ -22,7 +24,7 @@ layout: default
       SI_Units</a>- Utility library to pretty print physical values in proper metric units
     <p>Latest version: 0.1.0</p>
   </p>
-  
+
   <p>
     <a href="{{ site.baseurl }}/spat/">
       <img src="https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/spat/profile-small.png"
@@ -30,8 +32,8 @@ layout: default
       S.P.A.T</a>- SPARK Proof Analysis Tool
     <p>Latest version: No official release yet.</p>
   </p>
+
   <hr/>
-  
   <h2>Work-in-Progress Projects</h2>
 
   <p>
@@ -39,20 +41,18 @@ layout: default
       <!-- img link="https://raw.githubusercontent.com/HeisenbugLtd/heisenbugltd.github.io/master/assets/img/spat/profile-small.png"/ -->
       OpenWeatherMap API</a>- Ada binding to the openweathermap.org JSON API.
   </p>
-  <hr/>
 </div>
 
+<hr/>
 <h1>Blog</h1>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
