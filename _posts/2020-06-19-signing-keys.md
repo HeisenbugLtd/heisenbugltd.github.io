@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Signing keys
-author: [Jellix](https://github.com/Jellix)
+author: Jellix
 tags: "PGP keys" "signing"
 ---
 
@@ -18,3 +18,5 @@ identity `ada.rocks@jlfencey.com` from selected public key servers, notably
 The key's fingerprint id should match
 
   > `C8D512005D2D8667`
+
+--  [Jellix](https://github.com/Jellix)
