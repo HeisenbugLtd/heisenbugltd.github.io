@@ -1,0 +1,17 @@
+---
+layout: post
+title: Signing keys
+tags: keys pgp "signed archives"
+---
+
+PGP keys
+
+You may or may not have noticed that I recently started signing commits and I
+do plan on doing so in the future.  This will include signing release archives.
+
+If you want to verify these signatures, you can get the key for the the
+identity `ada.rocks@jlfencey.com` from some public keyservers, notably
+
+[keys.openpgp.org](keys.openpgp.org).
+
+The key's fingerprint should match `6C1001515C1951D0E78E150EC8D512005D2D8667`.
