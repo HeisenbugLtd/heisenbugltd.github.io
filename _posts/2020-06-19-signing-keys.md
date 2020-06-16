@@ -2,7 +2,7 @@
 layout: post
 title: Signing keys
 author: Jellix
-tags: "PGP keys" "signing"
+tags: PGP signatures key signing
 ---
 
 You may or may not have noticed that I recently started signing commits and I
