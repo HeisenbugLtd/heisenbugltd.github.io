@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Signing keys
-author: [Jellix](https://github.com/Jellix)
+author: Jellix
 tags: PGP signatures key signing
 ---
 
