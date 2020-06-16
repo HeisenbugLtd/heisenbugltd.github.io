@@ -14,6 +14,6 @@ identity `ada.rocks@jlfencey.com` from some public keyservers, notably
 
 [keys.openpgp.org](https://keys.openpgp.org).
 
-The key's fingerprint should match
+The key's fingerprint id should match
 
-> `6C1001515C1951D0E78E150EC8D512005D2D8667`
+> `C8D512005D2D8667`
