@@ -2,9 +2,8 @@
 layout: post
 title: Signing keys
 author: Jellix
+tags: "PGP keys" "signing"
 ---
-
-PGP keys
 
 You may or may not have noticed that I recently started signing commits and I
 do plan on doing so in the future.  This will include signing release archives.
@@ -16,4 +15,4 @@ identity `ada.rocks@jlfencey.com` from some public keyservers, notably
 
 The key's fingerprint id should match
 
-> `C8D512005D2D8667`
+  > `C8D512005D2D8667`
